@@ -1,6 +1,6 @@
 {
-  "versionCode": 1,
-  "versionName": "0.1.0",
+  "versionCode": 2,
+  "versionName": "0.1.1",
   "apkUrl": "https://raw.githubusercontent.com/c091746/xiaoxiang-baseballbox-updates/main/xiaoxiang-baseballbox.apk",
-  "notes": "初始更新檔：加入 App 內檢查更新功能。"
+  "notes": "修正自由體育 RSS 解析，避免新聞追蹤頁空白。"
 }

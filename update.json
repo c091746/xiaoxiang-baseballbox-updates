@@ -1,6 +1,6 @@
 {
-  "versionCode": 3,
-  "versionName": "0.1.2",
+  "versionCode": 4,
+  "versionName": "0.1.3",
   "apkUrl": "https://raw.githubusercontent.com/c091746/xiaoxiang-baseballbox-updates/main/xiaoxiang-baseballbox.apk",
-  "notes": "升級版本號，讓 App 內更新可正確辨識新版。"
+  "notes": "新增新聞關鍵字範例按鈕，方便快速加入多重條件。"
 }

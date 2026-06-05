@@ -1,6 +1,6 @@
 {
-  "versionCode": 5,
-  "versionName": "0.1.4",
+  "versionCode": 6,
+  "versionName": "0.1.5",
   "apkUrl": "https://raw.githubusercontent.com/c091746/xiaoxiang-baseballbox-updates/main/xiaoxiang-baseballbox.apk",
-  "notes": "改用 GitHub API 讀取更新資訊，避免 raw 快取造成版本判斷延遲。"
+  "notes": "新聞追蹤頁移到其他球員後面，並將預設新聞關鍵字改為常用清單。"
 }

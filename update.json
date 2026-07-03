@@ -1,6 +1,6 @@
 {
-  "versionCode": 8,
-  "versionName": "0.1.7",
+  "versionCode": 9,
+  "versionName": "0.1.8",
   "apkUrl": "https://raw.githubusercontent.com/c091746/xiaoxiang-baseballbox-updates/main/xiaoxiang-baseballbox.apk",
-  "notes": "修正賽後比分與先發投手通知排程，改成更穩定的每日定時排程。"
+  "notes": "新增過場開發者字樣、修正道奇球員歸類、將 OPS 改為進攻指數，並在下一場資訊中加入轉播註記。"
 }

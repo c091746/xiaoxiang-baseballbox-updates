@@ -1,6 +1,6 @@
 {
-  "versionCode": 13,
-  "versionName": "0.1.12",
+  "versionCode": 14,
+  "versionName": "0.1.13",
   "apkUrl": "https://raw.githubusercontent.com/c091746/xiaoxiang-baseballbox-updates/main/xiaoxiang-baseballbox.apk",
-  "notes": "修正打者與投手同名球員的快速移動定位。"
+  "notes": "球員名稱可長按確認後開啟 MLB 官方介紹頁。"
 }

@@ -1,6 +1,6 @@
 {
-  "versionCode": 10,
-  "versionName": "0.1.9",
+  "versionCode": 11,
+  "versionName": "0.1.10",
   "apkUrl": "https://raw.githubusercontent.com/c091746/xiaoxiang-baseballbox-updates/main/xiaoxiang-baseballbox.apk",
-  "notes": "新增過場開發者字樣、修正道奇球員歸類、將 OPS 改為進攻指數，並僅在 widget 下一場資訊標示蘋果獨占場次。"
+  "notes": "新增過場開發者字樣、修正道奇球員歸類、將 OPS 改為進攻指數，並在 widget 與賽事頁的下一場資訊標示蘋果獨占場次。"
 }

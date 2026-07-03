@@ -1,6 +1,6 @@
 {
-  "versionCode": 6,
-  "versionName": "0.1.5",
+  "versionCode": 7,
+  "versionName": "0.1.6",
   "apkUrl": "https://raw.githubusercontent.com/c091746/xiaoxiang-baseballbox-updates/main/xiaoxiang-baseballbox.apk",
-  "notes": "新聞追蹤頁移到其他球員後面，並將預設新聞關鍵字改為常用清單。"
+  "notes": "調整背景更新規則：6:00-14:00 完整更新，14:01-22:59 只更新新聞，23:00-5:59 暫停更新。"
 }

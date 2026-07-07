@@ -1,6 +1,6 @@
 {
-  "versionCode": 17,
-  "versionName": "0.1.16",
+  "versionCode": 18,
+  "versionName": "0.1.17",
   "apkUrl": "https://raw.githubusercontent.com/c091746/xiaoxiang-baseballbox-updates/main/xiaoxiang-baseballbox.apk",
-  "notes": "修正蘋果獨占判斷，只有真正 Apple TV+ 獨家場次才會標示。"
+  "notes": "新增可用球隊與背號搜尋球員的方式，方便不熟英文的使用者快速追蹤。"
 }

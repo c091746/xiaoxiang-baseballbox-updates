@@ -1,6 +1,6 @@
 {
-  "versionCode": 18,
-  "versionName": "0.1.17",
+  "versionCode": 19,
+  "versionName": "0.1.18",
   "apkUrl": "https://raw.githubusercontent.com/c091746/xiaoxiang-baseballbox-updates/main/xiaoxiang-baseballbox.apk",
-  "notes": "新增可用球隊與背號搜尋球員的方式，方便不熟英文的使用者快速追蹤。"
+  "notes": "新增球隊下拉選單搭配背號搜尋球員，並強化響尾蛇等隊名中文顯示。"
 }
